@@ -8,16 +8,14 @@
 
 ```text
 .
+├── a_maze_ing.py
+├── __init__.py
 ├── Makefile
+├── pyproject.toml
 ├── README.md
 ├── requirements.txt
-├── src
-│   ├── a_maze_ing.py
-│   ├── Cell.py
-│   ├── Colors.py
-│   ├── Maze.py
-│   └── Parameters.py
 └── test_input.txt
+
 ```
 
 ## Instructions
